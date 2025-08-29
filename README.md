@@ -6,9 +6,9 @@
 ---
 
 ## Project Overview
-This repository is a personal exploration of **quantitative finance and portfolio analysis**. The goal is to build a small-scale toolkit for analyzing historical stock prices, visualizing trends, simulating trading strategies, and measuring portfolio risk.  
+This repository is a personal exploration of quantitative finance and portfolio analysis. The goal here is to build a small-scale toolkit for analyzing historical stock prices, visualizing trends, simulating trading strategies, and measuring portfolio risk.  
 
-The project is structured around **Jupyter notebooks** and Python scripts that allow for flexible experimentation and reproducible results.
+The project is structured around Jupyter notebooks and Python scripts that allow for experimentation and reproducible results.
 
 ---
 
